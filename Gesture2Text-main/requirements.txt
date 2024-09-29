@@ -1,0 +1,7 @@
+numpy==1.26.4
+open-cv==4.9.0
+matplotlib==3.9.0
+mediapipe
+tensorflow==2.16.1
+sci-kit-learn==1.5.0
+
